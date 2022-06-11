@@ -1,1 +1,1 @@
-# Aloca-o-Din-mica-e-Struct
+# Alocação Dinâmica e Struct
